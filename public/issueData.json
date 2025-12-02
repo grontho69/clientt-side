@@ -1,0 +1,68 @@
+[
+  {
+    "id": "RPT-001",
+    "title": "Overflowing garbage on Road 21",
+    "category": "Garbage",
+    "location": "Mohakhali, Dhaka",
+    "description": "Garbage has not been collected for 5 days.",
+    "image": "https://example.com/img1.jpg",
+    "amount": 200,
+    "email": "user1@mail.com",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "RPT-002",
+    "title": "Broken streetlight near Bus Stand",
+    "category": "Streetlight",
+    "location": "Mirpur 12, Dhaka",
+    "description": "The main streetlight has been out for a week.",
+    "image": "https://example.com/img2.jpg",
+    "amount": 150,
+    "email": "user2@mail.com",
+    "date": "2025-09-14"
+  },
+  {
+    "id": "RPT-003",
+    "title": "Water leakage on 4th Lane",
+    "category": "Water Supply",
+    "location": "Banani DOHS, Dhaka",
+    "description": "Continuous leakage causing road damage.",
+    "image": "https://example.com/img3.jpg",
+    "amount": 300,
+    "email": "user3@mail.com",
+    "date": "2025-11-02"
+  },
+  {
+    "id": "RPT-004",
+    "title": "Illegal parking blocking road",
+    "category": "Traffic",
+    "location": "Uttara Sector 7, Dhaka",
+    "description": "Cars are blocking one full lane every evening.",
+    "image": "https://example.com/img4.jpg",
+    "amount": 100,
+    "email": "user4@mail.com",
+    "date": "2025-08-19"
+  },
+  {
+    "id": "RPT-005",
+    "title": "Damaged footpath near school",
+    "category": "Footpath",
+    "location": "Dhanmondi 27, Dhaka",
+    "description": "Footpath tiles are broken and dangerous for kids.",
+    "image": "https://example.com/img5.jpg",
+    "amount": 250,
+    "email": "user5@mail.com",
+    "date": "2025-10-05"
+  },
+  {
+    "id": "RPT-006",
+    "title": "Open manhole at market area",
+    "category": "Safety Hazard",
+    "location": "Bashundhara R/A, Dhaka",
+    "description": "Manhole uncovered for 3 days — high risk of accidents.",
+    "image": "https://example.com/img6.jpg",
+    "amount": 220,
+    "email": "user6@mail.com",
+    "date": "2025-09-30"
+  }
+]
